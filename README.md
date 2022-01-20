@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mutesa-Cedric
 - 👀 I’m interested in software programming
-- 🌱 I’m currently learning angular framework
+- 🌱 I’m currently learning reactjs 
 
 - 📫 How to reach me .:you can reach me via email (mutesacedric@gmail.com)
 
