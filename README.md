@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Starts](https://github-readme-stats.vercel.app/api?username=Mutesa-Cedric&theme=radical&show_icons=true)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutesa-Cedric&theme=dark&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutesa-Cedric)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutesa-Cedric&exclude_repo=food-delivery,real-estate-website)](https://github.com/Mutesa-cedric/github-readme-stats)
