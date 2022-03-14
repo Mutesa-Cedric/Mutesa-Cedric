@@ -9,7 +9,7 @@ Mutesa-Cedric/Mutesa-Cedric is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Starts](https://github-readme-stats.vercel.app/api?username=Mutesa-Cedric&theme=radical&show_icons=true)
+![GitHub Starts](https://github-readme-stats.vercel.app/api?username=Mutesa-Cedric&theme=radical&show_icons=true&include_all_commits=true)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutesa-Cedric&theme=dark&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutesa-Cedric)](https://github.com/Mutesa-cedric/github-readme-stats)
