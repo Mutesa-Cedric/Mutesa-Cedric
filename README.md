@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mutesa-Cedric
+- 👋 Hi, I’m **Mutesa-Cedric**
 - 👀 I’m interested in software programming
 - 🌱 I’m currently learning node js 
 
