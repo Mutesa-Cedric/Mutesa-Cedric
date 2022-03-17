@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutesa-cedric&show_icons=true&theme=radical&locale=en" alt="mutesa-cedric" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutesa-cedric&" alt="mutesa-cedric" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutesa-cedric&theme=radical" alt="mutesa-cedric" /></p>
