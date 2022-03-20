@@ -1,3 +1,10 @@
+
+<div border="100">
+  <kbd style="border:2px solid red;">
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="300px" height="250px">
+  </kbd>
+</div>
+
 Hi 👋 My name is MUTESA Cedric
 ==============================
 
