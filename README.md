@@ -1,10 +1,4 @@
 
-<!-- <div border="100">
-  <kbd style="border:2px solid red;">
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="300px" height="250px">
-  </kbd>
-</div>
- -->
 Hi 👋 My name is MUTESA Cedric
 ==============================
 
@@ -16,7 +10,7 @@ i started learning to code in 2021 and i have now learned many things throught t
 * 🌍  I'm based in RWANDA
 * ✉️  You can contact me at [mutesacedric@gmail.com](mailto:mutesacedric@gmail.com)
 * 🚀  I'm currently working on [Tweep](https://github.com/Mutesa-Cedric/tweep)
-* 🧠  I'm now mastering **MERN STACK **
+* 🧠  I'm now mastering **MERN STACK**
 * 🤝  I'm open to collaborating on anything.
 * ⚡  I am a football fan especially real madrid and chelsea
 
