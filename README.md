@@ -29,7 +29,6 @@ i started learning to code in 2021 and i have now learned many things throught t
 <a href="https://www.twitter.com/@CedricMutesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
