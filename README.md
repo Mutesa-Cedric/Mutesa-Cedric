@@ -5,7 +5,8 @@ Hi 👋 My name is MUTESA Cedric
 fullstack web developer |ux/ui designer
 ---------------------------------------
 
-i started learning to code in 2021 and i have now learned many things throught this journey
+i started learning to code in 2021 and i have now learned many things throught this journey.
+<br>(html,css ,js ,reactjs,vuejs,typescript,nodejs,express,nestjs,......)
 
 * 🌍  I'm based in RWANDA
 * ✉️  You can contact me at [mutesacedric@gmail.com](mailto:mutesacedric@gmail.com)
