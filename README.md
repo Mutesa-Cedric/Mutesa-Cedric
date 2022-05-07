@@ -11,7 +11,7 @@ i started learning to code in 2021 and i have now learned many things throught t
 * 🌍  I'm based in RWANDA
 * ✉️  You can contact me at [mutesacedric@gmail.com](mailto:mutesacedric@gmail.com)
 * 🚀  I'm currently working on [Tweep](https://github.com/Mutesa-Cedric/tweep)
-* 🧠  I'm now learning **typeScript**
+* 🧠  I'm now learning **vuejs**
 * 🤝  I'm open to collaborating on anything.
 * ⚡  I am a football fan especially real madrid and chelsea
 
