@@ -21,6 +21,7 @@ some of projects I have done so far are:
 
 * [Metaflix](https://metaflix.vercel.app)
 * [Tweep](https://mctweep.vercel.app)
+* [Shoppex](https://shoppex.vercel.app)
 * [salenix](https://salenix.vercel.app)
 * [Spacity](https://spacity.vercel.app)
 
