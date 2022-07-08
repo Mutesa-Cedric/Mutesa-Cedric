@@ -11,7 +11,7 @@ fullstack web developer |ux/ui designer
 * 🌍  I'm based in RWANDA
 * ✉️  You can contact me at [mutesacedric@gmail.com](mailto:mutesacedric@gmail.com)
 * 🚀  I'm currently working on [Metaflix](https://metaflix.vercel.app)
-* 🧠  I'm now learning **vuejs**
+* 🧠  I'm now learning **flutter**
 * 🤝  I'm open to collaborating on anything.
 * ⚡  I am a football fan especially real madrid and chelsea -->
 
