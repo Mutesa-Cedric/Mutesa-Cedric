@@ -34,6 +34,7 @@ here are some of languages and techs I have learnt so far:
 * html, css, Javascript
 * Reactjs
 * Vuejs
+* Angular
 * tailwindcss
 * bootstrap
 * nextjs
