@@ -2,11 +2,8 @@
 Hi 👋 My name is MUTESA Cedric
 ==============================
 
-fullstack web developer |ux/ui designer
+fullstack web & mobile app developer | TS Enthusiast
 ---------------------------------------
-
-<!-- i started learning to code in 2021 and i have now learned many things throught this journey.
-<br>(html,css ,js ,reactjs,vuejs,typescript,nodejs,express,nestjs,......)
 
 * 🌍  I'm based in RWANDA
 * ✉️  You can contact me at [mutesacedric@gmail.com](mailto:mutesacedric@gmail.com)
@@ -25,32 +22,6 @@ some of projects I have done so far are:
 * [salenix](https://salenix.vercel.app)
 * [Spacity](https://spacity.vercel.app)
 
-### Skills
-
-here are some of languages and techs I have learnt so far:
-
-## frontend
-
-* html, css, Javascript
-* Reactjs
-* Vuejs
-* Angular
-* tailwindcss
-* bootstrap
-* nextjs
-
-## backend
-
-* Nodejs (express)
-* Nestjs
-* Laravel (PHP)
-
-
-## design
-
-* Figma
-* Adobe XD
-* Photoshop
 
 
 ![](https://komarev.com/ghpvc/?username=Mutesa-Cedric&label=profile+viewers&style=for-the-badge)
