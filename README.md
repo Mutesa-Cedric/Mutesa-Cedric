@@ -1,4 +1,4 @@
-![Mutesa Thumbnail #2](https://user-images.githubusercontent.com/96414111/187903193-ed7c4c03-7b6e-40ee-ba01-14298dff8216.jpg)
+![image](https://user-images.githubusercontent.com/96414111/187936546-7b9685c7-989a-40b0-b5df-6af2fb8310a8.png)
 
 
 # projects
